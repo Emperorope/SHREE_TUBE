@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SHREE TUBE</string>
+    <string name="email">Email ID</string>
+    <string name="pass">Password</string>
+    <string name="login">LOGIN</string>
+
+
+    <string name="tracking">TRACKING</string>
+    <string name="neworder">NEW ORDER</string>
+
+    <string name="dim">SIZE</string>
+    <string name="cust">Customer</string>
+    <string name="quant">QUANTITY</string>
+    <string name="gra">GRADE</string>
+    <string name="dia">DIAMETER</string>
+    <string name="thick">THICKNESS</string>
+    <string name="len">LENGTH</string>
+    <string name="nam">NAME</string>
+    <string name="num">IN NUMBER</string>
+    <string name="grad">GRADE</string>
+    <string name="next">PROCEED</string>
+
+<!--    <string name="next">SLITTING</string>   -->
+<!--    <string name="next">TUBE FORMING & WELDING</string>  -->
+<!--    <string name="next">TUBE DRAW</string>-->
+<!--    <string name="next">ANNEALING</string>-->
+<!--    <string name="next">BEAD POLISH</string>-->
+<!--    <string name="next">STRAIGHTENING</string>-->
+<!--    <string name="next">PICKLING</string>-->
+<!--    <string name="next">CUTTING</string>     -->
+<!--    <string name="next">EDDY</string>-->
+<!--    <string name="next">POLISHING</string>-->
+<!--    <string name="next">LASER MARKING</string>-->
+<!--    <string name="next">PROCEED</string>-->
+
+
+
+</resources>
